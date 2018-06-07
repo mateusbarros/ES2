@@ -15,7 +15,7 @@ import javax.xml.bind.annotation.XmlRegistry;
 import javax.xml.datatype.XMLGregorianCalendar;
 import javax.xml.namespace.QName;
 
-final String BIBTEXML = "http://bibtexml.sf.net/";
+static final String BIBTEXML = "http://bibtexml.sf.net/";
 
 /**
  * This object contains factory methods for each 
